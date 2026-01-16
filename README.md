@@ -15,3 +15,6 @@ mvn -T1C clean package
 To run bot (after setting BOT_USERNAME and BOT_TOKEN env vars):
 cd bot-core
 mvn exec:java -Dexec.mainClass="uz.islom.attendancebot.BotApp"
+
+It's my java bot project.
+The End!
